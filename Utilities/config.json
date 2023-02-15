@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "ambuj",
+    "password": "Techugo@123",
+    "database": "qouch_potato",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "prozata",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "6$*vM94G",
+    "database": "qouch_potato",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
